@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Balls Game
-=======
-# Color Lines
->>>>>>> 45e03ab00f4077f23bc7c5f823a9fdb4378895bf
-=======
-# Color Lines
->>>>>>> 45e03ab00f4077f23bc7c5f823a9fdb4378895bf
 
+# Color Lines
 
 A colorful and challenging game implemented in TypeScript where you need to strategically move balls to form lines and earn points.  
 Game created as part of high school projects, inspired by balls games --> https://www.kurnik.pl/kulki/
@@ -47,18 +39,8 @@ The game consists of the following main files:
 To run the project locally, follow these steps:
 
 ```bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-git clone https://github.com/MiernikA/Balls-Game.git
-cd Balls-Game
-=======
 git clone https://github.com/MiernikA/Color-Lines.git
 cd Color-Lines
->>>>>>> 45e03ab00f4077f23bc7c5f823a9fdb4378895bf
-=======
-git clone https://github.com/MiernikA/Color-Lines.git
-cd Color-Lines
->>>>>>> 45e03ab00f4077f23bc7c5f823a9fdb4378895bf
 npm install
 ```
 
